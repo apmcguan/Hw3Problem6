@@ -4,17 +4,16 @@ using namespace std;
 
 
 int main() {
-  int H, M, m;
-  cin>> H, M;
+  int H, M ;
+  cin >> H >> M ;
+ 
+  H--;
+  M+= 15;
+  
+  
+  
   
 
-  /*if (m < 0 ){
-    H -= 1;
-    M += 60;
-  }
-  if ( H < 0){
-    H = 23;
-    */
     
     
   }
