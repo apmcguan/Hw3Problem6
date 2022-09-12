@@ -18,7 +18,7 @@ int main() {
     
     
   }
-  cout<<  M << endl;
+ 
     
   
 }
